@@ -6,7 +6,7 @@ Parameters:
     Description: "Source control URL (e.g. Github)"
   GithubOwner:
     Type: String
-    Default: qswitcher
+    Default: iamdarknight
   GithubRepo:
     Type: String
     Default: my-test-app
